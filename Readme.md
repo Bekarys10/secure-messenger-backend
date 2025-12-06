@@ -8,8 +8,8 @@
 
 ## 👥 Team Members
 - **Bekarys** (GitHub: @Bekarys10) - Cryptography Implementation & Backend Logic
-- **Aslan** (GitHub: ) - Frontend Development & UI/UX Design
-- **Bekbol** (GitHub: ) - Security Analysis & Documentation
+- **Aslan** (GitHub: @Asik062) - Frontend Development & UI/UX Design
+- **Bekbol** (GitHub: @bekbull) - Security Analysis & Documentation
 
 ## 🎯 Project Description
 
@@ -368,7 +368,7 @@ MIT License - See LICENSE file for details
 ## 📧 Contact
 
 - **Instructor**: adil.akhmetov@sdu.edu.kz
-- **Project Repository**: [GitHub Link]
+- **Project Repository**: [https://github.com/bekbull/secure-messenger-backend]
 - **Course**: MAT364 - Cryptography
 
 ## 🙏 Acknowledgments
